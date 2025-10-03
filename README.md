@@ -156,6 +156,6 @@ The model's output space demonstrates logical clustering of languages by linguis
 
 - Group 21 - Introduction to Deep Learning Course 2023
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Course instructors: Juan Sebastian Olier Jauregui, Dimitar Shterionov, and Cascha van Wanrooij
